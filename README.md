@@ -4,15 +4,15 @@ Knapsack problem we seek to find best solutions without solve directly problem b
 # How to run :
 1-file contain input (as knapsack_input.txt in this repo) which inputs :
 
-  i-first line number of test case
+    i-first line number of test case
  
-  ii-second line Size of the knapsack
+    ii-second line Size of the knapsack
   
-  iii-third line Number of items
+    iii-third line Number of items
   
-  iv-fourth line:
+    iv-fourth line:
     
-    • Weight and value for each item separated by space
+      • Weight and value for each item separated by space
       
 # How to get best solution :
 1-Initialize population randomly
